@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Assessment Test - Frontend Developer
+
+1. File name: Juan Frido Aditiya
+
+2. File format: Frontend Developer position MySooltan, MyTEnS & MyCarrier project initiatives in PT Telekomunikasi Indonesia
+
+
 ## Getting Started
 
 First, run the development server:
